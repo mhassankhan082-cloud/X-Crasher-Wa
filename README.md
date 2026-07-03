@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/y8v3djZd/Untitled-Project.jpg">
 </p>
 
-<h1 align="center">💀 X-Crasher WhatsApp Bot 💀</h1>
+<h1 align="center">💀 Ayesha-Crasher WhatsApp Bot 💀</h1>
 
 <p align="center">
 ⚡ Advanced • Dangerous • Experimental WhatsApp Bot ⚡
@@ -114,8 +114,8 @@ Edit your **config.js**
 
 ```javascript
 /*
-Script X-Crasher
-By DanuZz
+Script Ayesha-Crasher
+By Ayesha
 
 Site: https://www.movanest.xyz
 */
@@ -127,16 +127,16 @@ global.session_id = ""
 // If deploy with VPS or panel -> keep empty
 
 global.prefix = '.'
-global.owner = ["9476XXXXX"]
-global.bot = "9476XXXXX"
+global.owner = ["923147375840"]
+global.bot = "923147375840"
 
-global.namabot = "X-Crasher"
-global.namaown = "DanuZz"
+global.namabot = "Ayesha-Crasher"
+global.namaown = "Ayesha"
 
-global.workType = "public" 
+global.workType = "private" 
 // public | private | groups | inbox
 
-global.anticall = true
+global.anticall = false
 ```
 
 ---
@@ -180,7 +180,7 @@ git clone https://github.com/dnuzi/X-Crasher-Wa
 Enter folder
 
 ```
-cd X-Crasher-Wa
+cd Ayesha-Crasher-Wa
 ```
 
 Install modules
@@ -199,9 +199,9 @@ npm start
 
 # 👨‍💻 Developer
 
-### 🧑‍💻 DanuZz
+### 🧑‍💻 Ayesha
 
-Creator of **X-Crasher**
+Creator of **Ayesha-Crasher**
 
 🌐 Website  
 https://www.movanest.xyz
