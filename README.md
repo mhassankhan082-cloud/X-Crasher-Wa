@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/y8v3djZd/Untitled-Project.jpg">
+<img src="https://ibb.co/zVZJP2Xr">
 </p>
 
 <h1 align="center">💀 Ayesha-Crasher WhatsApp Bot 💀</h1>
