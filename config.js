@@ -1,6 +1,6 @@
 /*
-Script X-Crasher
-By DanuZz
+Script Ayesha-Crasher
+By Ayesha
 
 Site: https://www.movanest.xyz
 */
@@ -9,12 +9,12 @@ Site: https://www.movanest.xyz
 
 global.session_id = "" //Input your session id like deploy with railway or heroku. | If you deploy with pterodactyl panel don't add session id.
 global.prefix = '.' // bot prefix
-global.owner = ["9476XXXXX"] // Add Your Owner number
-global.bot = "9476XXXXX" // Add Your Bot number
-global.namabot = "X-Crasher" // Add Your Bot name
-global.namaown = "DanuZz" // Add Your Bot owner name
-global.workType = "public" // public, private, groups, inbox
-global.anticall = true // Anti Call Feature
+global.owner = ["923147375840"] // Add Your Owner number
+global.bot = "923147375840" // Add Your Bot number
+global.namabot = "Ayesha-Crasher" // Add Your Bot name
+global.namaown = "Ayesha" // Add Your Bot owner name
+global.workType = "private" // public, private, groups, inbox
+global.anticall = false // Anti Call Feature
 
 //~~~~~Status Updated~~~~~//
 let fs = require('fs')
