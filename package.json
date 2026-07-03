@@ -1,12 +1,12 @@
 {
   "name": "X-Crasher",
   "version": "1.0.0",
-  "description": "Script by DanuZz",
+  "description": "Script by Ayesha",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "DanuZz",
+  "author": "Ayesha",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
